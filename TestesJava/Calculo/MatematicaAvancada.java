@@ -1,7 +1,5 @@
 package Calculo;
 
-import javax.sql.rowset.CachedRowSet;
-
 public class MatematicaAvancada {
 
     private double resultado;
